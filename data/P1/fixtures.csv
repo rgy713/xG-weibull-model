@@ -1,0 +1,46 @@
+Div,DateTime,HomeTeam,AwayTeam
+P1,15.04.2022 14:30,Arouca,Santa Clara
+P1,15.04.2022 17:00,Famalicao,Gil Vicente
+P1,15.04.2022 19:30,Vitoria SC,Pacos de Ferreira
+P1,16.04.2022 14:30,Moreirense,Tondela
+P1,16.04.2022 17:00,Maritimo,Boavista
+P1,16.04.2022 17:00,Belenenses,Vizela
+P1,16.04.2022 19:30,Porto,Portimonense
+P1,17.04.2022 19:30,Sporting CP,Benfica
+P1,18.04.2022 19:30,Estoril,Sporting Braga
+P1,24.04.2022 00:00,Boavista,Sporting CP
+P1,24.04.2022 00:00,Sporting Braga,Porto
+P1,24.04.2022 00:00,Gil Vicente,Pacos de Ferreira
+P1,24.04.2022 00:00,Tondela,Vitoria SC
+P1,24.04.2022 00:00,Portimonense,Moreirense
+P1,24.04.2022 00:00,Benfica,Famalicao
+P1,24.04.2022 00:00,Estoril,Belenenses
+P1,24.04.2022 00:00,Santa Clara,Maritimo
+P1,24.04.2022 00:00,Vizela,Arouca
+P1,30.04.2022 00:00,Porto,Vizela
+P1,30.04.2022 00:00,Famalicao,Estoril
+P1,30.04.2022 00:00,Arouca,Portimonense
+P1,30.04.2022 00:00,Moreirense,Boavista
+P1,30.04.2022 00:00,Pacos de Ferreira,Tondela
+P1,30.04.2022 00:00,Vitoria SC,Santa Clara
+P1,30.04.2022 00:00,Belenenses,Sporting Braga
+P1,30.04.2022 00:00,Maritimo,Benfica
+P1,30.04.2022 00:00,Sporting CP,Gil Vicente
+P1,08.05.2022 00:00,Vizela,Maritimo
+P1,08.05.2022 00:00,Sporting Braga,Arouca
+P1,08.05.2022 00:00,Gil Vicente,Tondela
+P1,08.05.2022 00:00,Belenenses,Famalicao
+P1,08.05.2022 00:00,Estoril,Moreirense
+P1,08.05.2022 00:00,Boavista,Vitoria SC
+P1,08.05.2022 00:00,Santa Clara,Pacos de Ferreira
+P1,08.05.2022 00:00,Benfica,Porto
+P1,08.05.2022 00:00,Portimonense,Sporting CP
+P1,15.05.2022 00:00,Pacos de Ferreira,Benfica
+P1,15.05.2022 00:00,Famalicao,Sporting Braga
+P1,15.05.2022 00:00,Sporting CP,Santa Clara
+P1,15.05.2022 00:00,Arouca,Belenenses
+P1,15.05.2022 00:00,Vitoria SC,Gil Vicente
+P1,15.05.2022 00:00,Tondela,Boavista
+P1,15.05.2022 00:00,Maritimo,Portimonense
+P1,15.05.2022 00:00,Porto,Estoril
+P1,15.05.2022 00:00,Moreirense,Vizela

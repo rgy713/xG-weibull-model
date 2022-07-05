@@ -1,0 +1,71 @@
+Div,DateTime,HomeTeam,AwayTeam
+F1,15.04.2022 19:00,Rennes,Monaco
+F1,16.04.2022 15:00,Saint-Etienne,Brest
+F1,16.04.2022 19:00,Lille,Lens
+F1,17.04.2022 11:00,Nice,Lorient
+F1,17.04.2022 13:00,Troyes,Strasbourg
+F1,17.04.2022 13:00,Nantes,Angers SCO
+F1,17.04.2022 13:00,Montpellier,Reims
+F1,17.04.2022 13:00,Metz,Clermont
+F1,17.04.2022 15:05,Olympique Lyonnais,Bordeaux
+F1,17.04.2022 18:45,Paris Saint Germain,Olympique Marseille
+F1,20.04.2022 17:00,Bordeaux,Saint-Etienne
+F1,20.04.2022 17:00,Lorient,Metz
+F1,20.04.2022 17:00,Monaco,Nice
+F1,20.04.2022 17:00,Reims,Lille
+F1,20.04.2022 17:00,Troyes,Clermont
+F1,20.04.2022 19:00,Angers SCO,Paris Saint Germain
+F1,20.04.2022 19:00,Brest,Olympique Lyonnais
+F1,20.04.2022 19:00,Lens,Montpellier
+F1,20.04.2022 19:00,Olympique Marseille,Nantes
+F1,20.04.2022 19:00,Strasbourg,Rennes
+F1,23.04.2022 15:00,Olympique Lyonnais,Montpellier
+F1,23.04.2022 17:00,Saint-Etienne,Monaco
+F1,23.04.2022 19:00,Paris Saint Germain,Lens
+F1,24.04.2022 11:00,Rennes,Lorient
+F1,24.04.2022 13:00,Clermont,Angers SCO
+F1,24.04.2022 13:00,Metz,Brest
+F1,24.04.2022 13:00,Nantes,Bordeaux
+F1,24.04.2022 13:00,Nice,Troyes
+F1,24.04.2022 15:05,Lille,Strasbourg
+F1,24.04.2022 18:45,Reims,Olympique Marseille
+F1,29.04.2022 19:00,Strasbourg,Paris Saint Germain
+F1,30.04.2022 15:00,Lens,Nantes
+F1,30.04.2022 19:00,Rennes,Saint-Etienne
+F1,01.05.2022 11:00,Troyes,Lille
+F1,01.05.2022 13:00,Brest,Clermont
+F1,01.05.2022 13:00,Montpellier,Metz
+F1,01.05.2022 13:00,Monaco,Angers SCO
+F1,01.05.2022 13:00,Lorient,Reims
+F1,01.05.2022 15:05,Bordeaux,Nice
+F1,01.05.2022 18:45,Olympique Marseille,Olympique Lyonnais
+F1,08.05.2022 00:00,Angers SCO,Bordeaux
+F1,08.05.2022 00:00,Brest,Strasbourg
+F1,08.05.2022 00:00,Clermont,Montpellier
+F1,08.05.2022 00:00,Lille,Monaco
+F1,08.05.2022 00:00,Lorient,Olympique Marseille
+F1,08.05.2022 00:00,Metz,Olympique Lyonnais
+F1,08.05.2022 00:00,Paris Saint Germain,Troyes
+F1,08.05.2022 00:00,Reims,Lens
+F1,11.05.2022 00:00,Nice,Saint-Etienne
+F1,11.05.2022 00:00,Nantes,Rennes
+F1,14.05.2022 00:00,Strasbourg,Clermont
+F1,14.05.2022 00:00,Bordeaux,Lorient
+F1,14.05.2022 00:00,Olympique Lyonnais,Nantes
+F1,14.05.2022 00:00,Metz,Angers SCO
+F1,14.05.2022 00:00,Monaco,Brest
+F1,14.05.2022 00:00,Montpellier,Paris Saint Germain
+F1,14.05.2022 00:00,Nice,Lille
+F1,14.05.2022 00:00,Rennes,Olympique Marseille
+F1,14.05.2022 00:00,Saint-Etienne,Reims
+F1,14.05.2022 00:00,Troyes,Lens
+F1,21.05.2022 00:00,Reims,Nice
+F1,21.05.2022 00:00,Angers SCO,Montpellier
+F1,21.05.2022 00:00,Brest,Bordeaux
+F1,21.05.2022 00:00,Clermont,Olympique Lyonnais
+F1,21.05.2022 00:00,Lens,Monaco
+F1,21.05.2022 00:00,Lille,Rennes
+F1,21.05.2022 00:00,Lorient,Troyes
+F1,21.05.2022 00:00,Olympique Marseille,Strasbourg
+F1,21.05.2022 00:00,Nantes,Saint-Etienne
+F1,21.05.2022 00:00,Paris Saint Germain,Metz

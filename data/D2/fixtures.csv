@@ -1,0 +1,46 @@
+Div,DateTime,HomeTeam,AwayTeam
+D2,16.04.2022 11:30,Hannover 96,Fortuna Dusseldorf
+D2,16.04.2022 11:30,Sandhausen,St. Pauli
+D2,16.04.2022 11:30,Dynamo Dresden,Holstein Kiel
+D2,16.04.2022 18:30,Hamburger SV,Karlsruher SC
+D2,17.04.2022 11:30,Darmstadt 98,Schalke 04
+D2,17.04.2022 11:30,Heidenheim,Erzgebirge Aue
+D2,17.04.2022 11:30,Hansa Rostock,Jahn Regensburg
+D2,17.04.2022 11:30,Ingolstadt,Paderborn
+D2,17.04.2022 11:30,Werder Bremen,Nurnberg
+D2,22.04.2022 16:30,Fortuna Dusseldorf,Dynamo Dresden
+D2,22.04.2022 16:30,Karlsruher SC,Ingolstadt
+D2,23.04.2022 11:30,Holstein Kiel,Heidenheim
+D2,23.04.2022 11:30,Jahn Regensburg,Hamburger SV
+D2,23.04.2022 11:30,Schalke 04,Werder Bremen
+D2,23.04.2022 18:30,St. Pauli,Darmstadt 98
+D2,24.04.2022 11:30,Paderborn,Hannover 96
+D2,24.04.2022 11:30,Nurnberg,Sandhausen
+D2,24.04.2022 11:30,Erzgebirge Aue,Hansa Rostock
+D2,29.04.2022 16:30,Hannover 96,Karlsruher SC
+D2,29.04.2022 16:30,Sandhausen,Schalke 04
+D2,29.04.2022 16:30,St. Pauli,Nurnberg
+D2,29.04.2022 16:30,Werder Bremen,Holstein Kiel
+D2,29.04.2022 16:30,Heidenheim,Fortuna Dusseldorf
+D2,30.04.2022 11:30,Dynamo Dresden,Jahn Regensburg
+D2,30.04.2022 11:30,Hansa Rostock,Paderborn
+D2,30.04.2022 11:30,Ingolstadt,Hamburger SV
+D2,30.04.2022 18:30,Darmstadt 98,Erzgebirge Aue
+D2,06.05.2022 16:30,Fortuna Dusseldorf,Darmstadt 98
+D2,06.05.2022 16:30,Paderborn,Sandhausen
+D2,07.05.2022 11:30,Ingolstadt,Hansa Rostock
+D2,07.05.2022 11:30,Hamburger SV,Hannover 96
+D2,07.05.2022 11:30,Jahn Regensburg,Heidenheim
+D2,07.05.2022 18:30,Schalke 04,St. Pauli
+D2,08.05.2022 11:30,Erzgebirge Aue,Werder Bremen
+D2,08.05.2022 11:30,Karlsruher SC,Dynamo Dresden
+D2,08.05.2022 11:30,Holstein Kiel,Nurnberg
+D2,15.05.2022 13:30,Werder Bremen,Jahn Regensburg
+D2,15.05.2022 13:30,Darmstadt 98,Paderborn
+D2,15.05.2022 13:30,Heidenheim,Karlsruher SC
+D2,15.05.2022 13:30,St. Pauli,Fortuna Dusseldorf
+D2,15.05.2022 13:30,Nurnberg,Schalke 04
+D2,15.05.2022 13:30,Hannover 96,Ingolstadt
+D2,15.05.2022 13:30,Sandhausen,Holstein Kiel
+D2,15.05.2022 13:30,Dynamo Dresden,Erzgebirge Aue
+D2,15.05.2022 13:30,Hansa Rostock,Hamburger SV

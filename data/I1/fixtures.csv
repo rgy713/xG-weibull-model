@@ -1,0 +1,66 @@
+Div,DateTime,HomeTeam,AwayTeam
+I1,15.04.2022 17:00,Spezia,Inter
+I1,15.04.2022 19:00,Milan,Genoa
+I1,16.04.2022 10:30,Cagliari,Sassuolo
+I1,16.04.2022 12:30,Udinese,Empoli
+I1,16.04.2022 12:30,Sampdoria,Salernitana
+I1,16.04.2022 14:30,Fiorentina,Venezia
+I1,16.04.2022 16:30,Juventus,Bologna
+I1,16.04.2022 18:45,Lazio,Torino
+I1,18.04.2022 17:00,Napoli,Roma
+I1,18.04.2022 19:00,Atalanta,Hellas Verona
+I1,20.04.2022 00:00,Udinese,Salernitana
+I1,24.04.2022 00:00,Salernitana,Fiorentina
+I1,24.04.2022 00:00,Torino,Spezia
+I1,24.04.2022 00:00,Venezia,Atalanta
+I1,24.04.2022 00:00,Sassuolo,Juventus
+I1,24.04.2022 00:00,Lazio,Milan
+I1,24.04.2022 00:00,Inter,Roma
+I1,24.04.2022 00:00,Hellas Verona,Sampdoria
+I1,24.04.2022 00:00,Empoli,Napoli
+I1,24.04.2022 00:00,Bologna,Udinese
+I1,24.04.2022 00:00,Genoa,Cagliari
+I1,27.04.2022 00:00,Salernitana,Venezia
+I1,27.04.2022 00:00,Fiorentina,Udinese
+I1,27.04.2022 00:00,Bologna,Inter
+I1,01.05.2022 00:00,Roma,Bologna
+I1,01.05.2022 00:00,Udinese,Inter
+I1,01.05.2022 00:00,Spezia,Lazio
+I1,01.05.2022 00:00,Sampdoria,Genoa
+I1,01.05.2022 00:00,Napoli,Sassuolo
+I1,01.05.2022 00:00,Milan,Fiorentina
+I1,01.05.2022 00:00,Juventus,Venezia
+I1,01.05.2022 00:00,Empoli,Torino
+I1,01.05.2022 00:00,Cagliari,Hellas Verona
+I1,01.05.2022 00:00,Atalanta,Salernitana
+I1,08.05.2022 00:00,Fiorentina,Roma
+I1,08.05.2022 00:00,Genoa,Juventus
+I1,08.05.2022 00:00,Hellas Verona,Milan
+I1,08.05.2022 00:00,Inter,Empoli
+I1,08.05.2022 00:00,Lazio,Sampdoria
+I1,08.05.2022 00:00,Salernitana,Cagliari
+I1,08.05.2022 00:00,Sassuolo,Udinese
+I1,08.05.2022 00:00,Spezia,Atalanta
+I1,08.05.2022 00:00,Torino,Napoli
+I1,08.05.2022 00:00,Venezia,Bologna
+I1,11.05.2022 00:00,Atalanta,Torino
+I1,15.05.2022 00:00,Cagliari,Inter
+I1,15.05.2022 00:00,Empoli,Salernitana
+I1,15.05.2022 00:00,Hellas Verona,Torino
+I1,15.05.2022 00:00,Juventus,Lazio
+I1,15.05.2022 00:00,Milan,Atalanta
+I1,15.05.2022 00:00,Napoli,Genoa
+I1,15.05.2022 00:00,Roma,Venezia
+I1,15.05.2022 00:00,Sampdoria,Fiorentina
+I1,15.05.2022 00:00,Udinese,Spezia
+I1,15.05.2022 00:00,Bologna,Sassuolo
+I1,22.05.2022 00:00,Venezia,Cagliari
+I1,22.05.2022 00:00,Torino,Roma
+I1,22.05.2022 00:00,Spezia,Napoli
+I1,22.05.2022 00:00,Sassuolo,Milan
+I1,22.05.2022 00:00,Salernitana,Udinese
+I1,22.05.2022 00:00,Lazio,Hellas Verona
+I1,22.05.2022 00:00,Inter,Sampdoria
+I1,22.05.2022 00:00,Genoa,Bologna
+I1,22.05.2022 00:00,Fiorentina,Juventus
+I1,22.05.2022 00:00,Atalanta,Empoli
